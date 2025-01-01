@@ -1,6 +1,6 @@
 import datetime;now = datetime.date.today();target = datetime.date(2029,8,1)
 if now >=target:print("@MRBMOX دخن لا ضوج 💲 راسلني حتى افعلك 𝚂𝙰𝙳")
-else:print("Tokyo")
+else:print("sad")
 import os 
 import requests,bs4,json,os,sys,random,datetime,time,re
 from urllib import request
@@ -88,7 +88,7 @@ try:
  from cfonts import render, say
 except:
  os.system('pip install python-cfonts')
-output = render('Tokyo', colors=['green', 'red'], align='center')
+output = render('sad', colors=['green', 'red'], align='center')
 print(output)
 token=input(X+'[-] INPUT TOKEN : '+F)
 ID=input(X+'[-] INPUT ID : '+F)
@@ -166,7 +166,7 @@ try:
 	open('.prox.txt','w').write(prox)
 	
 except Exception as e:
-	print('[[\x1b[1;92m+\x1b[1;97m] [\x1b[1;96mTokyo')
+	print('[[\x1b[1;92m+\x1b[1;97m] [\x1b[1;96msad')
 prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
 	a='Mozilla/5.0 (Symbian/3; Series60/'
@@ -232,7 +232,7 @@ cokbrut=[]
 
 def back():
 	login()
-Tokyo="Tokyo"
+sad="sad"
 imt="SETU"
 ak="CLASS3-"
 
@@ -290,7 +290,7 @@ def banner():
 
 	print("""\033[1;91m\033[1;41m\033[1;97m  Tool : @MRBMOX\033[;0m\033[1;91m\033[1;92m
 \033[92;1m═\033[1;35m═\033[1;34m═\033[1;33m═\033[1;32m═\033[1;97m═\033[38;5;196m═\033[1;35m═\033[1;34m═\033[1;33m═\033[1;33m═\033[1;97m═\033[38;5;196m═\033[38;5;196m═\033[1;33m═\033[1;33m═\033[1;32m═\033[1;34m═\033[1;33m═\033[1;97m═\033[38;5;196m═\033[1;97m═\033[38;5;196m═\033[38;5;196m══\033[1;33m══\033[1;35m══\033[1;34m══
-[√] Name     : Tokyo.
+[√] Name     : sad.
 [√] Tool     : Paid
 [√] Version  : 03.0
 \033[92;1m═\033[1;35m═\033[1;34m═\033[1;33m═\033[1;32m═\033[1;97m═\033[38;5;196m═\033[1;35m═\033[1;34m═\033[1;33m═\033[1;33m═\033[1;97m═\033[38;5;196m═\033[38;5;196m═\033[1;33m═\033[1;33m═\033[1;32m═\033[1;34m═\033[1;33m═\033[1;97m═\033[38;5;196m═\033[1;97m═\033[38;5;196m═\033[38;5;196m══\033[1;33m══\033[1;35m══\033[1;34m══""")
@@ -624,7 +624,7 @@ def passwrd():
 		time.sleep(2)
 		exit()
 
-def _____Tokyo_____(u):
+def _____sad_____(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.002)
 def tahun(fx):
         if len(fx)==15:
@@ -657,7 +657,7 @@ def tahun(fx):
 def crack(idf,pwv):
 	global loop,ok,cp
 	bo = random.choice([m,k,h,b,u,x])
-	sys.stdout.write(f'\r \033[1;90m[\033[1;92mTokyo\033[1;90m]\033[1;90m  | \x1b[38;5;212m{P}{loop} \033[1;90m | \x1b[38;5;208m{len(id)}{P}  \033[1;90m |  \033[1;92mOK {ok}{P}  \033[1;90m |  \033[1;93mCP {cp}{x}  \033[1;90m]'),
+	sys.stdout.write(f'\r \033[1;90m[\033[1;92msad\033[1;90m]\033[1;90m  | \x1b[38;5;212m{P}{loop} \033[1;90m | \x1b[38;5;208m{len(id)}{P}  \033[1;90m |  \033[1;92mOK {ok}{P}  \033[1;90m |  \033[1;93mCP {cp}{x}  \033[1;90m]'),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
